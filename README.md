@@ -29,6 +29,7 @@ I'm passionate about architecting highly scalable and reliable systems from the 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
 <p align="left">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
