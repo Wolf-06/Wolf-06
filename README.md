@@ -27,7 +27,7 @@ I'm passionate about architecting highly scalable and reliable systems from the 
 <a href="https://www.linkedin.com/in/Uajjawal/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="uajjawal-sharma-linkedin" /></a>
 <a href="mailto:Uajjawal.06@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="uajjawal-sharma-gmail" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <p align="left">
