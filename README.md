@@ -55,6 +55,4 @@ I'm passionate about architecting highly scalable and reliable systems from the 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wolf-06&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wolf-06&theme=tokyonight" alt="Contribution Streak" />
 </p>
