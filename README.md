@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Uajjawal Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hi, I'm Uajjawal Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<p align="left">
 <strong>Backend Engineer | High-Performance Systems Enthusiast | Pre-final Year Student @ IIITM Gwalior</strong>
 </p>
 
-<p align="center">
+<p align="left">
 I'm passionate about architecting highly scalable and reliable systems from the ground up. My core focus is on leveraging Go and modern DevOps practices to build applications that are not only fast but exceptionally robust. I thrive on solving complex problems in concurrency, system design, and microservices architecture.
 </p>
 
@@ -22,14 +22,14 @@ I'm passionate about architecting highly scalable and reliable systems from the 
 
 ⚡ Fun fact: I led a team of over 200 members for my institute's annual techno-managerial fest, Infotsav'24.    
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/Uajjawal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="uajjawal-sharma-linkedin" /></a>
-<a href="mailto:Uajjawal.06@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="uajjawal-sharma-gmail" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/Uajjawal/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="uajjawal-sharma-linkedin" /></a>
+<a href="mailto:Uajjawal.06@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="uajjawal-sharma-gmail" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -48,11 +48,11 @@ I'm passionate about architecting highly scalable and reliable systems from the 
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
-<h3 align="center">My GitHub Statistics</h3>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wolf-06&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<h3 align="left">My GitHub Statistics</h3>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wolf-06&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wolf-06&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Wolf-06&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 </p>
