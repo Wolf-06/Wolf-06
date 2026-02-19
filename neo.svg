@@ -12,7 +12,7 @@
   <rect width="100%" height="100%" rx="10" class="bg" stroke="#30363D" stroke-width="2"/>
 
   <g transform="translate(10, 20) scale(0.45)">
-    <text x="0" y="0" class="ascii" xml:space="preserve">
+    <text x="3" y="0" class="ascii" xml:space="preserve">
       <tspan x="0" dy="15">                                                                                                     </tspan>
       <tspan x="0" dy="15">                                         II                                                      </tspan>
       <tspan x="0" dy="15">                                          &gt;"I                  II                                     </tspan>
@@ -83,7 +83,7 @@
   
   <text x="400" y="290" class="text"><tspan class="dots">- </tspan>The Builder Logs</text>
   <text x="400" y="310" class="text"><tspan class="key">Building.OpenSource:</tspan><tspan class="dots"> .... </tspan>Kgateway </text>
-  <text x="400" y="330" class="text"><tspan class="key">Building.Systems:</tspan><tspan class="dots"> ....... </tspan>StockBrokerX (Trading engine)</text>
+  <text x="400" y="330" class="text"><tspan class="key">Building.Systems:</tspan><tspan class="dots"> ....... </tspan>TradeIT (Trading engine)</text>
   <text x="400" y="350" class="text"><tspan class="key">Building.AI:</tspan><tspan class="dots"> ............ </tspan>LLM-powered workflow automation</text>
 
   <text x="400" y="390" class="text"><tspan class="dots">- </tspan>Ping &amp; Trivia</text>
