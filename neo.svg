@@ -72,22 +72,22 @@
 
   <text x="400" y="60" class="text header">uajjawal<tspan class="dots">@</tspan>wolf-06 <tspan class="dots">------------------------</tspan></text>
   
-  <text x="400" y="90" class="text"><tspan class="key">OS:</tspan><tspan class="dots"> ..................... </tspan>Arch Linux (Hyprland)</text>
+  <text x="400" y="90" class="text"><tspan class="key">OS:</tspan><tspan class="dots"> ..................... </tspan>Arch Linux</text>
   <text x="400" y="110" class="text"><tspan class="key">Host:</tspan><tspan class="dots"> ................... </tspan>IIIT Gwalior</text>
   <text x="400" y="130" class="text"><tspan class="key">Role:</tspan><tspan class="dots"> ................... </tspan>Backend &amp; Systems Engineer</text>
-  <text x="400" y="150" class="text"><tspan class="key">Focus:</tspan><tspan class="dots"> .................. </tspan>Cloud-Native, High-Perf Systems</text>
+  <text x="400" y="150" class="text"><tspan class="key">Focus:</tspan><tspan class="dots"> .................. </tspan>Cloud-Native, High-Performance Systems</text>
 
-  <text x="400" y="190" class="text"><tspan class="key">Langs.Programming:</tspan><tspan class="dots"> ...... </tspan>Go (Golang), Python, SQL</text>
-  <text x="400" y="210" class="text"><tspan class="key">Tech.Infrastructure:</tspan><tspan class="dots"> .... </tspan>Kubernetes, Docker, Envoy, AWS</text>
-  <text x="400" y="230" class="text"><tspan class="key">Tech.Databases:</tspan><tspan class="dots"> ......... </tspan>PostgreSQL, Redis, RabbitMQ</text>
+  <text x="400" y="190" class="text"><tspan class="key">Langs.Programming:</tspan><tspan class="dots"> ...... </tspan>Go (Golang), Python, Rust, SQL</text>
+  <text x="400" y="210" class="text"><tspan class="key">Tech.Infrastructure:</tspan><tspan class="dots"> .... </tspan>Kubernetes, Docker, Envoy, AWS, Linux </text>
+  <text x="400" y="230" class="text"><tspan class="key">Tech.Databases:</tspan><tspan class="dots"> ......... </tspan>PostgreSQL, Redis, RabbitMQ, Kafka</text>
   
-  <text x="400" y="270" class="text"><tspan class="dots">- </tspan>Projects &amp; Open Source</text>
-  <text x="400" y="290" class="text"><tspan class="key">Active.Contribution:</tspan><tspan class="dots"> .... </tspan>Kgateway <tspan class="dots">(xDS Bootstrapping)</tspan></text>
-  <text x="400" y="310" class="text"><tspan class="key">Project.go-PTrack:</tspan><tspan class="dots"> ...... </tspan>Concurrent Linux process tracker</text>
-  <text x="400" y="330" class="text"><tspan class="key">Project.StockBrokerX:</tspan><tspan class="dots"> ... </tspan>Microservices trading system</text>
+  <text x="400" y="290" class="text"><tspan class="dots">- </tspan>The Builder Logs</text>
+  <text x="400" y="310" class="text"><tspan class="key">Building.OpenSource:</tspan><tspan class="dots"> .... </tspan>Kgateway </text>
+  <text x="400" y="330" class="text"><tspan class="key">Building.Systems:</tspan><tspan class="dots"> ....... </tspan>StockBrokerX (Trading engine)</text>
+  <text x="400" y="350" class="text"><tspan class="key">Building.AI:</tspan><tspan class="dots"> ............ </tspan>LLM-powered workflow automation</text>
 
-  <text x="400" y="370" class="text"><tspan class="dots">- </tspan>Contact</text>
-  <text x="400" y="390" class="text"><tspan class="key">Email:</tspan><tspan class="dots"> .................. </tspan><tspan class="highlight">uajjawal.06@gmail.com</tspan></text>
-  <text x="400" y="410" class="text"><tspan class="key">LinkedIn:</tspan><tspan class="dots"> ............... </tspan><tspan class="highlight">Uajjawal-Sharma</tspan></text>
+  <text x="400" y="390" class="text"><tspan class="dots">- </tspan>Ping &amp; Trivia</text>
+  <text x="400" y="410" class="text"><tspan class="key">Email:</tspan><tspan class="dots"> .................. </tspan><tspan class="highlight">uajjawal.06@gmail.com</tspan></text>
+  <text x="400" y="430" class="text"><tspan class="key">Fun.Fact:</tspan><tspan class="dots"> ............... </tspan>⚡ Led 200+ members for Infotsav'24</text>
 
 </svg>
