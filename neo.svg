@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 420" width="100%" height="100%">
+  <style>
+    .bg { fill: #0D1117; }
+    .text { font-family: 'Fira Code', 'Courier New', Consolas, monospace; font-size: 14px; fill: #C9D1D9; }
+    .key { fill: #E3B341; } /* Orange/Yellow for keys */
+    .header { font-weight: bold; fill: #C9D1D9; }
+    .dots { fill: #484F58; }
+    .highlight { fill: #58A6FF; } /* Blue for highlights */
+    .ascii { font-family: monospace; font-size: 12px; fill: #58A6FF; }
+  </style>
+
+  <rect width="100%" height="100%" rx="10" class="bg" stroke="#30363D" stroke-width="2"/>
+
+ <tspan x="30" dy="15">                                                                                                                                                         </tspan>
+<tspan x="30" dy="15">                                           II                                                       </tspan>
+<tspan x="30" dy="15">                                          &gt"I                 II                                    </tspan>
+<tspan x="30" dy="15">                                         {{II                &gt&gt&gtI                                   </tspan>
+<tspan x="30" dy="15">                                        -|{-II              I-|&gtI                                   </tspan>
+<tspan x="30" dy="15">                                       &gt{j{{-&gt            II&gt{j-II                                  </tspan>
+<tspan x="30" dy="15">                                      I-cJc--II           I&gt-{jc&gt&gt                                  </tspan>
+<tspan x="30" dy="15">                                     I{jcOO{{&gtII        II&gt-{JOJ{II                                 </tspan>
+<tspan x="30" dy="15">                                    I-jJOOOj{-II JII    "I--jddJ|II                                 </tspan>
+<tspan x="30" dy="15">                                    I|JJJOJj{{IIIIIII&gt I"&gt{|OddOj&gt&gt                                 </tspan>
+<tspan x="30" dy="15">                                    I-jcJJcj{-&gt&gtI&gt--&gtIII&gt&gt{jddddj&gt-                                 </tspan>
+<tspan x="30" dy="15">                                    &gt{jcccj|jj||{{{|{&gt&gt&gt&gt&gt-jOddO{I&gt                                 </tspan>
+<tspan x="30" dy="15">                                    &gt-{{{{-{{-&gt&gt&gt&gt&gtIIIIIII&gt-|jj|&gtI&gt                                 </tspan>
+<tspan x="30" dy="15">                                  "II&gt---{|{---&gtIIII&gtIIII&gt&gt&gtIIII-I&gt                                 </tspan>
+<tspan x="30" dy="15">                                I&gt&gt&gtI&gt-{{{{{{{{{-||---{jcccc|-III&gt&gt&gt                                </tspan>
+<tspan x="30" dy="15">                               IIII&gt--{{{|jcJcJOOOcjjjcJOOJJJJj-&gtI&gt&gtI                               </tspan>
+<tspan x="30" dy="15">                              &gtIII-{||{|ccJJJOddOJjjjjJOdOOOOOOJj--&gt&gtI                              </tspan>
+<tspan x="30" dy="15">                             III&gt-{{{|jcJOdadaaadcjjjcJOaaaaaaadOJc|&gtII&gt                            </tspan>
+<tspan x="30" dy="15">                            I&gt&gt&gtII&gt&gt-{{|jcJdOcJOOj|{{-|JdccJadJ|&gt&gt-&gt--&gtII                           </tspan>
+<tspan x="30" dy="15">                          I&gtII--&gt{----{{{||||||||{{-------|||jjcj|{&gtIIIII&gt-                         </tspan>
+<tspan x="30" dy="15">                         I&gt--{{{{{{|||jj|||{-------&gt&gtIIIIIIII&gt{jcjjj||{--&gtII                        </tspan>
+<tspan x="30" dy="15">                           II{||||||jjjcccjj{---&gt&gtIIII&gtIII&gt&gt&gt-cJJJJccjjj-- &gt                        </tspan>
+<tspan x="30" dy="15">                             II{|j||||jjjcccjj{{{jOdaaddOOcj{jOOJJJJcj||                            </tspan>
+<tspan x="30" dy="15">                              --{jjj|||jjjjjjcdcjcdaaaaaaaaaJ|OJJJJJc|-                             </tspan>
+<tspan x="30" dy="15">                              I&gt-|||||||||jjjjjdJJJdaaaaaaMa-JJJJJJj--                              </tspan>
+<tspan x="30" dy="15">                          &gt-{{-&gt-{{|||||||||jjjcdJJOOdaMMaaJcJJJJcj&gt&gt                               </tspan>
+<tspan x="30" dy="15">                         &gt-|cjj|{||||||||||||jcccadccJJOOJJJJJJJJj-&gtI                               </tspan>
+<tspan x="30" dy="15">                         {jjjcJOddOcj{{{{{|||jjcJJJOddaad{cJJJJJJj{&gt-Jc                             </tspan>
+<tspan x="30" dy="15">                        |cOdaaaaaaaaadcj||||j||jjjJOOOdaOcJJJJJJc|&gtI{aMaj&gt                          </tspan>
+<tspan x="30" dy="15">                       caMMaaaaaaaaaaaaaOcjj||||||jcJddJJJJJJJccj--&gt&gtjaMO-&gt                         </tspan>
+<tspan x="30" dy="15">                       {{|cOdaaaaaaaaaaaaadOj|||||||jjcJJJJJJccj||{--jOc|{-                         </tspan>
+<tspan x="30" dy="15">                    II&gt&gt&gt-{jOdaaaaaaaaaaaaaaaOcj||||jjccccJJJJcjj|{{{JOOJ|{                         </tspan>
+<tspan x="30" dy="15">                 III&gt&gt-{|jJdaaaaaaaaMMMaaaaaaaadJcjjjjcccccJJJcccJOaMMMMMdJ                         </tspan>
+<tspan x="30" dy="15">              III&gt-|jcJOddaaaaaaaaaaaaaaaaaMMMMMaaOccjccccJJJJOdaMMMMMMdc{                          </tspan>
+<tspan x="30" dy="15">            I&gt&gt--{|cOddaaaaaaaaaaaMMaaaaaaaMaaaMMMMaOJJccJJJdaMMMMMMMadO|{&gt                         </tspan>
+<tspan x="30" dy="15">          I&gt--|jcJddaddaaaaaaaaaaaaaaaaaaaMMMMMMMMaaaaOOJOaMMMMMMMMMadJ||c|&gtI"                      </tspan>
+<tspan x="30" dy="15">        &gt&gt-|cOJOdaaaaaaaaaaaaaaaaaaaaaaaaaaMMMMaaaaaaaaaMMMMMMMMMMMMMdOOccj{-&gtI                     </tspan>
+<tspan x="30" dy="15">       &gt-jOddddadddaaaaaaaaaaaaaaaaaaaaaaaMaMMaaMMaaaMMMMMMMMMMMMMMMMMadOJcc||-&gtI                   </tspan>
+<tspan x="30" dy="15">     &gt-{jOdddddaadaaaaaaaaaaaaaaaaaaaaaaaaaaaMaMMMMMMMMMMMMMMMMMMMMMMMMaaOcjjcJ|-I"                 </tspan>
+<tspan x="30" dy="15">   I&gt{jcdaaaaaddaaaaaaaaaaaaaaaaaaaaaaaMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMadOOJJJj{&gtI                </tspan>
+<tspan x="30" dy="15">  &gt-{jcdaaaaaaaaaaaaaaaaaaaaaMMaaaaaMMaaMMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaOOJc|&gtI               </tspan>
+<tspan x="30" dy="15">&gt&gt-{jcdaaaaaMMMMaaaaaaaaaaaaaaaaMaaMMaaaaMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaaOOcj-&gt              </tspan>
+<tspan x="30" dy="15">-{|jcOaaMMMMMMMMaaaaaaaaaaMMaMMMMMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaaMaaMadj{--            </tspan>
+<tspan x="30" dy="15">{|ccJdaMMMMMMMMMMaaaaaaaaMMaMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaO||{-           </tspan>
+<tspan x="30" dy="15">|jjJdaMMMMMMMMMMMMaaaaaaaMMaMaMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdc|j|-          </tspan>
+<tspan x="30" dy="15">jcdaaaMMMMMMMMMMMMMMaaaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaJj||{-         </tspan>
+<tspan x="30" dy="15">OdaaaMMMMMMMMMMMMMMMMaaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJ|j|{{{        </tspan>
+<tspan x="30" dy="15">aaaMMMMMMMMMMMMMMMMMMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMac|j|{-{       </tspan>
+<tspan x="30" dy="15">aaMMMMMMMMMMMMM@@@MMMMMaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaj||{{{       </tspan>
+<tspan x="30" dy="15">aaMMMMMMMMM@@MMMM@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd{{j||{      </tspan>
+<tspan x="30" dy="15">aMMMMMMMM@MMM@@M@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMM@MMMMMMMMMO{||{{&gt&gt    </tspan>
+<tspan x="30" dy="15">aMMMMMMMMM@MMM@@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMJ{|cj--    </tspan>
+<tspan x="30" dy="15">aMMMMMMMMM@M@MM@M@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJ{|JJ|{{  </tspan>
+<tspan x="30" dy="15">aMMM@@M@MM@@M@@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMac{jJc|{{  </tspan>
+</text>
+
+  <text x="320" y="60" class="text header">uajjawal<tspan class="dots">@</tspan>wolf-06 <tspan class="dots">------------------------</tspan></text>
+  
+  <text x="320" y="90" class="text"><tspan class="key">OS:</tspan><tspan class="dots"> ..................... </tspan>Arch Linux (Hyprland)</text>
+  <text x="320" y="110" class="text"><tspan class="key">Host:</tspan><tspan class="dots"> ................... </tspan>IIIT Gwalior</text>
+  <text x="320" y="130" class="text"><tspan class="key">Role:</tspan><tspan class="dots"> ................... </tspan>Backend &amp; Systems Engineer</text>
+  <text x="320" y="150" class="text"><tspan class="key">Focus:</tspan><tspan class="dots"> .................. </tspan>Cloud-Native, High-Perf Systems</text>
+
+  <text x="320" y="190" class="text"><tspan class="key">Langs.Programming:</tspan><tspan class="dots"> ...... </tspan>Go (Golang), Python, SQL</text>
+  <text x="320" y="210" class="text"><tspan class="key">Tech.Infrastructure:</tspan><tspan class="dots"> .... </tspan>Kubernetes, Docker, Envoy, AWS</text>
+  <text x="320" y="230" class="text"><tspan class="key">Tech.Databases:</tspan><tspan class="dots"> ......... </tspan>PostgreSQL, Redis, RabbitMQ</text>
+  
+  <text x="320" y="270" class="text"><tspan class="dots">- </tspan>Projects &amp; Open Source</text>
+  <text x="320" y="290" class="text"><tspan class="key">Active.Contribution:</tspan><tspan class="dots"> .... </tspan>Kgateway <tspan class="dots">(xDS Bootstrapping)</tspan></text>
+  <text x="320" y="310" class="text"><tspan class="key">Project.go-PTrack:</tspan><tspan class="dots"> ...... </tspan>Concurrent Linux process tracker</text>
+  <text x="320" y="330" class="text"><tspan class="key">Project.StockBrokerX:</tspan><tspan class="dots"> ... </tspan>Microservices trading system</text>
+
+  <text x="320" y="370" class="text"><tspan class="dots">- </tspan>Contact</text>
+  <text x="320" y="390" class="text"><tspan class="key">Email:</tspan><tspan class="dots"> .................. </tspan><tspan class="highlight">uajjawal.06@gmail.com</tspan></text>
+  <text x="320" y="410" class="text"><tspan class="key">LinkedIn:</tspan><tspan class="dots"> ............... </tspan><tspan class="highlight">Uajjawal-Sharma</tspan></text>
+
+</svg>
