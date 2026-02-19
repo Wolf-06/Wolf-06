@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
+  <style>
+    .bg { fill: #0D1117; }
+    .title { font: bold 36px 'Segoe UI', Arial, sans-serif; fill: #C9D1D9; }
+    .subtitle { font: 600 20px 'Fira Code', Consolas, monospace; fill: #36BCF7; }
+    .text { font: 15px 'Segoe UI', Arial, sans-serif; fill: #8B949E; }
+    .highlight { fill: #E6EDF3; font-weight: bold; }
+    .image-placeholder { fill: #161B22; stroke: #30363D; stroke-width: 2; stroke-dasharray: 6 6; }
+    .terminal-dot { r: 6; }
+  </style>
+  
+  <rect width="800" height="300" rx="15" class="bg" stroke="#30363D" stroke-width="1"/>
+
+  <circle cx="25" cy="25" class="terminal-dot" fill="#FF5F56" />
+  <circle cx="45" cy="25" class="terminal-dot" fill="#FFBD2E" />
+  <circle cx="65" cy="25" class="terminal-dot" fill="#27C93F" />
+
+  <circle cx="140" cy="150" r="80" class="image-placeholder" />
+  <text x="140" y="155" text-anchor="middle" class="text" font-family="monospace">INSERT PHOTO</text>
+
+  <text x="260" y="110" class="title">Uajjawal Sharma</text>
+  <text x="260" y="145" class="subtitle">&gt; Backend &amp; Systems Engineer</text>
+
+  <text x="260" y="190" class="text">
+    Open Source Contributor @ <tspan class="highlight">Kgateway</tspan> | Go, K8s, Envoy
+  </text>
+  <text x="260" y="220" class="text">
+    Creator of <tspan class="highlight">go-PTrack</tspan> &amp; <tspan class="highlight">StockBrokerX</tspan>
+  </text>
+
+  <rect x="260" y="250" width="12" height="12" rx="6" fill="#2EA043" />
+  <text x="280" y="261" class="text" font-size="13px">Building scalable infrastructure</text>
+</svg>
