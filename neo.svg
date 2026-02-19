@@ -10,63 +10,64 @@
   </style>
 
   <rect width="100%" height="100%" rx="10" class="bg" stroke="#30363D" stroke-width="2"/>
-<text>
-<tspan x="30" dy="15">                                                                                                                                                         </tspan>
-<tspan x="30" dy="15">                                           II                                                       </tspan>
-<tspan x="30" dy="15">                                          &gt"I                 II                                    </tspan>
-<tspan x="30" dy="15">                                         {{II                &gt&gt&gtI                                   </tspan>
-<tspan x="30" dy="15">                                        -|{-II              I-|&gtI                                   </tspan>
-<tspan x="30" dy="15">                                       &gt{j{{-&gt            II&gt{j-II                                  </tspan>
-<tspan x="30" dy="15">                                      I-cJc--II           I&gt-{jc&gt&gt                                  </tspan>
-<tspan x="30" dy="15">                                     I{jcOO{{&gtII        II&gt-{JOJ{II                                 </tspan>
-<tspan x="30" dy="15">                                    I-jJOOOj{-II JII    "I--jddJ|II                                 </tspan>
-<tspan x="30" dy="15">                                    I|JJJOJj{{IIIIIII&gt I"&gt{|OddOj&gt&gt                                 </tspan>
-<tspan x="30" dy="15">                                    I-jcJJcj{-&gt&gtI&gt--&gtIII&gt&gt{jddddj&gt-                                 </tspan>
-<tspan x="30" dy="15">                                    &gt{jcccj|jj||{{{|{&gt&gt&gt&gt&gt-jOddO{I&gt                                 </tspan>
-<tspan x="30" dy="15">                                    &gt-{{{{-{{-&gt&gt&gt&gt&gtIIIIIII&gt-|jj|&gtI&gt                                 </tspan>
-<tspan x="30" dy="15">                                  "II&gt---{|{---&gtIIII&gtIIII&gt&gt&gtIIII-I&gt                                 </tspan>
-<tspan x="30" dy="15">                                I&gt&gt&gtI&gt-{{{{{{{{{-||---{jcccc|-III&gt&gt&gt                                </tspan>
-<tspan x="30" dy="15">                               IIII&gt--{{{|jcJcJOOOcjjjcJOOJJJJj-&gtI&gt&gtI                               </tspan>
-<tspan x="30" dy="15">                              &gtIII-{||{|ccJJJOddOJjjjjJOdOOOOOOJj--&gt&gtI                              </tspan>
-<tspan x="30" dy="15">                             III&gt-{{{|jcJOdadaaadcjjjcJOaaaaaaadOJc|&gtII&gt                            </tspan>
-<tspan x="30" dy="15">                            I&gt&gt&gtII&gt&gt-{{|jcJdOcJOOj|{{-|JdccJadJ|&gt&gt-&gt--&gtII                           </tspan>
-<tspan x="30" dy="15">                          I&gtII--&gt{----{{{||||||||{{-------|||jjcj|{&gtIIIII&gt-                         </tspan>
-<tspan x="30" dy="15">                         I&gt--{{{{{{|||jj|||{-------&gt&gtIIIIIIII&gt{jcjjj||{--&gtII                        </tspan>
-<tspan x="30" dy="15">                           II{||||||jjjcccjj{---&gt&gtIIII&gtIII&gt&gt&gt-cJJJJccjjj-- &gt                        </tspan>
-<tspan x="30" dy="15">                             II{|j||||jjjcccjj{{{jOdaaddOOcj{jOOJJJJcj||                            </tspan>
-<tspan x="30" dy="15">                              --{jjj|||jjjjjjcdcjcdaaaaaaaaaJ|OJJJJJc|-                             </tspan>
-<tspan x="30" dy="15">                              I&gt-|||||||||jjjjjdJJJdaaaaaaMa-JJJJJJj--                              </tspan>
-<tspan x="30" dy="15">                          &gt-{{-&gt-{{|||||||||jjjcdJJOOdaMMaaJcJJJJcj&gt&gt                               </tspan>
-<tspan x="30" dy="15">                         &gt-|cjj|{||||||||||||jcccadccJJOOJJJJJJJJj-&gtI                               </tspan>
-<tspan x="30" dy="15">                         {jjjcJOddOcj{{{{{|||jjcJJJOddaad{cJJJJJJj{&gt-Jc                             </tspan>
-<tspan x="30" dy="15">                        |cOdaaaaaaaaadcj||||j||jjjJOOOdaOcJJJJJJc|&gtI{aMaj&gt                          </tspan>
-<tspan x="30" dy="15">                       caMMaaaaaaaaaaaaaOcjj||||||jcJddJJJJJJJccj--&gt&gtjaMO-&gt                         </tspan>
-<tspan x="30" dy="15">                       {{|cOdaaaaaaaaaaaaadOj|||||||jjcJJJJJJccj||{--jOc|{-                         </tspan>
-<tspan x="30" dy="15">                    II&gt&gt&gt-{jOdaaaaaaaaaaaaaaaOcj||||jjccccJJJJcjj|{{{JOOJ|{                         </tspan>
-<tspan x="30" dy="15">                 III&gt&gt-{|jJdaaaaaaaaMMMaaaaaaaadJcjjjjcccccJJJcccJOaMMMMMdJ                         </tspan>
-<tspan x="30" dy="15">              III&gt-|jcJOddaaaaaaaaaaaaaaaaaMMMMMaaOccjccccJJJJOdaMMMMMMdc{                          </tspan>
-<tspan x="30" dy="15">            I&gt&gt--{|cOddaaaaaaaaaaaMMaaaaaaaMaaaMMMMaOJJccJJJdaMMMMMMMadO|{&gt                         </tspan>
-<tspan x="30" dy="15">          I&gt--|jcJddaddaaaaaaaaaaaaaaaaaaaMMMMMMMMaaaaOOJOaMMMMMMMMMadJ||c|&gtI"                      </tspan>
-<tspan x="30" dy="15">        &gt&gt-|cOJOdaaaaaaaaaaaaaaaaaaaaaaaaaaMMMMaaaaaaaaaMMMMMMMMMMMMMdOOccj{-&gtI                     </tspan>
-<tspan x="30" dy="15">       &gt-jOddddadddaaaaaaaaaaaaaaaaaaaaaaaMaMMaaMMaaaMMMMMMMMMMMMMMMMMadOJcc||-&gtI                   </tspan>
-<tspan x="30" dy="15">     &gt-{jOdddddaadaaaaaaaaaaaaaaaaaaaaaaaaaaaMaMMMMMMMMMMMMMMMMMMMMMMMMaaOcjjcJ|-I"                 </tspan>
-<tspan x="30" dy="15">   I&gt{jcdaaaaaddaaaaaaaaaaaaaaaaaaaaaaaMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMadOOJJJj{&gtI                </tspan>
-<tspan x="30" dy="15">  &gt-{jcdaaaaaaaaaaaaaaaaaaaaaMMaaaaaMMaaMMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaOOJc|&gtI               </tspan>
-<tspan x="30" dy="15">&gt&gt-{jcdaaaaaMMMMaaaaaaaaaaaaaaaaMaaMMaaaaMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaaOOcj-&gt              </tspan>
-<tspan x="30" dy="15">-{|jcOaaMMMMMMMMaaaaaaaaaaMMaMMMMMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaaMaaMadj{--            </tspan>
-<tspan x="30" dy="15">{|ccJdaMMMMMMMMMMaaaaaaaaMMaMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaO||{-           </tspan>
-<tspan x="30" dy="15">|jjJdaMMMMMMMMMMMMaaaaaaaMMaMaMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdc|j|-          </tspan>
-<tspan x="30" dy="15">jcdaaaMMMMMMMMMMMMMMaaaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaJj||{-         </tspan>
-<tspan x="30" dy="15">OdaaaMMMMMMMMMMMMMMMMaaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJ|j|{{{        </tspan>
-<tspan x="30" dy="15">aaaMMMMMMMMMMMMMMMMMMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMac|j|{-{       </tspan>
-<tspan x="30" dy="15">aaMMMMMMMMMMMMM@@@MMMMMaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaj||{{{       </tspan>
-<tspan x="30" dy="15">aaMMMMMMMMM@@MMMM@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd{{j||{      </tspan>
-<tspan x="30" dy="15">aMMMMMMMM@MMM@@M@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMM@MMMMMMMMMO{||{{&gt&gt    </tspan>
-<tspan x="30" dy="15">aMMMMMMMMM@MMM@@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMJ{|cj--    </tspan>
-<tspan x="30" dy="15">aMMMMMMMMM@M@MM@M@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJ{|JJ|{{  </tspan>
-<tspan x="30" dy="15">aMMM@@M@MM@@M@@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMac{jJc|{{  </tspan>
-</text>
+<rect width="100%" height="100%" rx="10" class="bg" stroke="#30363D" stroke-width="2"/>
 
+<text x="30" y="60" class="ascii" xml:space="preserve">
+  <tspan x="30" dy="15">                                                                                                     </tspan>
+  <tspan x="30" dy="15">                                         II                                                      </tspan>
+  <tspan x="30" dy="15">                                          &gt;"I                  II                                     </tspan>
+  <tspan x="30" dy="15">                                         {{II                 &gt;&gt;&gt;I                                    </tspan>
+  <tspan x="30" dy="15">                                        -|{-II               I-|&gt;I                                    </tspan>
+  <tspan x="30" dy="15">                                       &gt;{j{{-&gt;             II&gt;{j-II                                  </tspan>
+  <tspan x="30" dy="15">                                      I-cJc--II            I&gt;-{jc&gt;&gt;                                  </tspan>
+  <tspan x="30" dy="15">                                     I{jcOO{{&gt;II        II&gt;-{JOJ{II                                 </tspan>
+  <tspan x="30" dy="15">                                    I-jJOOOj{-II JII    "I--jddJ|II                                  </tspan>
+  <tspan x="30" dy="15">                                    I|JJJOJj{{IIIIIII&gt; I"&gt;{|OddOj&gt;&gt;                                  </tspan>
+  <tspan x="30" dy="15">                                    I-jcJJcj{-&gt;&gt;I&gt;--&gt;III&gt;&gt;{jddddj&gt;-                                  </tspan>
+  <tspan x="30" dy="15">                                    &gt;{jcccj|jj||{{{|{&gt;&gt;&gt;&gt;&gt;-jOddO{I&gt;                                  </tspan>
+  <tspan x="30" dy="15">                                    &gt;-{{{{-{{-&gt;&gt;&gt;&gt;&gt;IIIIIII&gt;-|jj|&gt;I&gt;                                  </tspan>
+  <tspan x="30" dy="15">                                  "II&gt;---{|{---&gt;IIII&gt;IIII&gt;&gt;&gt;IIII-I&gt;                                  </tspan>
+  <tspan x="30" dy="15">                                I&gt;&gt;&gt;I&gt;-{{{{{{{{{-||---{jcccc|-III&gt;&gt;&gt;                                </tspan>
+  <tspan x="30" dy="15">                               IIII&gt;--{{{|jcJcJOOOcjjjcJOOJJJJj-&gt;I&gt;&gt;I                               </tspan>
+  <tspan x="30" dy="15">                              &gt;III-{||{|ccJJJOddOJjjjjJOdOOOOOOJj--&gt;&gt;I                              </tspan>
+  <tspan x="30" dy="15">                             III&gt;-{{{|jcJOdadaaadcjjjcJOaaaaaaadOJc|&gt;II&gt;                            </tspan>
+  <tspan x="30" dy="15">                            I&gt;&gt;&gt;II&gt;&gt;-{{|jcJdOcJOOj|{{-|JdccJadJ|&gt;&gt;-&gt;--&gt;II                           </tspan>
+  <tspan x="30" dy="15">                          I&gt;II--&gt;{----{{{||||||||{{-------|||jjcj|{&gt;IIIII&gt;-                         </tspan>
+  <tspan x="30" dy="15">                         I&gt;--{{{{{{|||jj|||{-------&gt;&gt;IIIIIIII&gt;{jcjjj||{--&gt;II                        </tspan>
+  <tspan x="30" dy="15">                           II{||||||jjjcccjj{---&gt;&gt;IIII&gt;III&gt;&gt;&gt;-cJJJJccjjj-- &gt;                        </tspan>
+  <tspan x="30" dy="15">                             II{|j||||jjjcccjj{{{jOdaaddOOcj{jOOJJJJcj||                            </tspan>
+  <tspan x="30" dy="15">                              --{jjj|||jjjjjjcdcjcdaaaaaaaaaJ|OJJJJJc|-                             </tspan>
+  <tspan x="30" dy="15">                              I&gt;-|||||||||jjjjjdJJJdaaaaaaMa-JJJJJJj--                              </tspan>
+  <tspan x="30" dy="15">                          &gt;-{{-&gt;-{{|||||||||jjjcdJJOOdaMMaaJcJJJJcj&gt;&gt;                               </tspan>
+  <tspan x="30" dy="15">                         &gt;-|cjj|{||||||||||||jcccadccJJOOJJJJJJJJj-&gt;I                               </tspan>
+  <tspan x="30" dy="15">                         {jjjcJOddOcj{{{{{|||jjcJJJOddaad{cJJJJJJj{&gt;-Jc                             </tspan>
+  <tspan x="30" dy="15">                        |cOdaaaaaaaaadcj||||j||jjjJOOOdaOcJJJJJJc|&gt;I{aMaj&gt;                          </tspan>
+  <tspan x="30" dy="15">                        caMMaaaaaaaaaaaaaOcjj||||||jcJddJJJJJJJccj--&gt;&gt;jaMO-&gt;                         </tspan>
+  <tspan x="30" dy="15">                        {{|cOdaaaaaaaaaaaaadOj|||||||jjcJJJJJJccj||{--jOc|{-                         </tspan>
+  <tspan x="30" dy="15">                     II&gt;&gt;&gt;-{jOdaaaaaaaaaaaaaaaOcj||||jjccccJJJJcjj|{{{JOOJ|{                         </tspan>
+  <tspan x="30" dy="15">                  III&gt;&gt;-{|jJdaaaaaaaaMMMaaaaaaaadJcjjjjcccccJJJcccJOaMMMMMdJ                         </tspan>
+  <tspan x="30" dy="15">               III&gt;-|jcJOddaaaaaaaaaaaaaaaaaMMMMMaaOccjccccJJJJOdaMMMMMMdc{                          </tspan>
+  <tspan x="30" dy="15">             I&gt;&gt;--{|cOddaaaaaaaaaaaMMaaaaaaaMaaaMMMMaOJJccJJJdaMMMMMMMadO|{&gt;                         </tspan>
+  <tspan x="30" dy="15">           I&gt;--|jcJddaddaaaaaaaaaaaaaaaaaaaMMMMMMMMaaaaOOJOaMMMMMMMMMadJ||c|&gt;I"                      </tspan>
+  <tspan x="30" dy="15">         &gt;&gt;-|cOJOdaaaaaaaaaaaaaaaaaaaaaaaaaaMMMMaaaaaaaaaMMMMMMMMMMMMMdOOccj{-&gt;I                      </tspan>
+  <tspan x="30" dy="15">        &gt;-jOddddadddaaaaaaaaaaaaaaaaaaaaaaaMaMMaaMMaaaMMMMMMMMMMMMMMMMMadOJcc||-&gt;I                   </tspan>
+  <tspan x="30" dy="15">      &gt;-{jOdddddaadaaaaaaaaaaaaaaaaaaaaaaaaaaaMaMMMMMMMMMMMMMMMMMMMMMMMMaaOcjjcJ|-I"                 </tspan>
+  <tspan x="30" dy="15">   I&gt;{jcdaaaaaddaaaaaaaaaaaaaaaaaaaaaaaMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMadOOJJJj{&gt;I                </tspan>
+  <tspan x="30" dy="15">  &gt;-{jcdaaaaaaaaaaaaaaaaaaaaaMMaaaaaMMaaMMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaOOJc|&gt;I               </tspan>
+  <tspan x="30" dy="15">&gt;&gt;-{jcdaaaaaMMMMaaaaaaaaaaaaaaaaMaaMMaaaaMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaaOOcj-&gt;              </tspan>
+  <tspan x="30" dy="15">-{|jcOaaMMMMMMMMaaaaaaaaaaMMaMMMMMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaaMaaMadj{--            </tspan>
+  <tspan x="30" dy="15">{|ccJdaMMMMMMMMMMaaaaaaaaMMaMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaO||{-            </tspan>
+  <tspan x="30" dy="15">|jjJdaMMMMMMMMMMMMaaaaaaaMMaMaMMaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdc|j|-          </tspan>
+  <tspan x="30" dy="15">jcdaaaMMMMMMMMMMMMMMaaaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaJj||{-         </tspan>
+  <tspan x="30" dy="15">OdaaaMMMMMMMMMMMMMMMMaaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJ|j|{{{        </tspan>
+  <tspan x="30" dy="15">aaaMMMMMMMMMMMMMMMMMMMaaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMac|j|{-{       </tspan>
+  <tspan x="30" dy="15">aaMMMMMMMMMMMMM@@@MMMMMaaMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaj||{{{       </tspan>
+  <tspan x="30" dy="15">aaMMMMMMMMM@@MMMM@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd{{j||{      </tspan>
+  <tspan x="30" dy="15">aMMMMMMMM@MMM@@M@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMM@MMMMMMMMMO{||{{&gt;&gt;    </tspan>
+  <tspan x="30" dy="15">aMMMMMMMMM@MMM@@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMJ{|cj--    </tspan>
+  <tspan x="30" dy="15">aMMMMMMMMM@M@MM@M@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMJ{|JJ|{{  </tspan>
+  <tspan x="30" dy="15">aMMM@@M@MM@@M@@@@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMac{jJc|{{ </tspan>
+</text>
   <text x="320" y="60" class="text header">uajjawal<tspan class="dots">@</tspan>wolf-06 <tspan class="dots">------------------------</tspan></text>
   
   <text x="320" y="90" class="text"><tspan class="key">OS:</tspan><tspan class="dots"> ..................... </tspan>Arch Linux (Hyprland)</text>
